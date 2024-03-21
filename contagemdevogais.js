@@ -10,7 +10,7 @@ texto = texto.toLowerCase();
 
 let vogais = ['a', 'e', 'i', 'o', 'u'];
 
-//Seleciono uma array de vogais:
+//Seleciono uma array de consoantes:
 
 let consoantes = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z'];
 
